@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Skim/WEB215/Lesson14/static/css/main.8cf58fc1.chunk.css",
+    "main.js": "/Skim/WEB215/Lesson14/static/js/main.5b1e768f.chunk.js",
+    "main.js.map": "/Skim/WEB215/Lesson14/static/js/main.5b1e768f.chunk.js.map",
+    "runtime-main.js": "/Skim/WEB215/Lesson14/static/js/runtime-main.54e6527a.js",
+    "runtime-main.js.map": "/Skim/WEB215/Lesson14/static/js/runtime-main.54e6527a.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/Skim/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/Skim/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/Skim/WEB215/Lesson14/index.html",
+    "precache-manifest.6ce09dcbc06d8d78491e31592ab23c65.js": "/Skim/WEB215/Lesson14/precache-manifest.6ce09dcbc06d8d78491e31592ab23c65.js",
+    "service-worker.js": "/Skim/WEB215/Lesson14/service-worker.js",
+    "static/css/main.8cf58fc1.chunk.css.map": "/Skim/WEB215/Lesson14/static/css/main.8cf58fc1.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/Skim/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/Sona.jpg": "/Skim/WEB215/Lesson14/static/media/Sona.87b29f69.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e6527a.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.8cf58fc1.chunk.css",
+    "static/js/main.5b1e768f.chunk.js"
+  ]
+}
